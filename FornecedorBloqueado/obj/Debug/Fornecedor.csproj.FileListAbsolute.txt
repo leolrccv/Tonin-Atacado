@@ -1,0 +1,7 @@
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\bin\Debug\FornecedorBloqueado.exe.config
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\bin\Debug\FornecedorBloqueado.exe
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\bin\Debug\FornecedorBloqueado.pdb
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\obj\Debug\Fornecedor.csprojAssemblyReference.cache
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\obj\Debug\Fornecedor.csproj.CoreCompileInputs.cache
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\obj\Debug\FornecedorBloqueado.exe
+D:\C#\FornecedorBloqueado\FornecedorBloqueado\obj\Debug\FornecedorBloqueado.pdb
